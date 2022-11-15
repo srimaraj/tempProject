@@ -1,0 +1,7 @@
+const COLORS = {
+  //SINGLE SOURCE : FOR ALL USED COLORS
+  LIGHT_YELLOW: "#FFFF00",
+  DARK_BLUE: "#0000FF",
+  LIGHT_GREY: "#FAFAFA",
+};
+export default COLORS;
